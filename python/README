@@ -1,0 +1,8 @@
+Use py.test to run unit tests
+
+Use virtualenv and pip to get the required packages
+
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
